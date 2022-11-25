@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -48,4 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # searchbreeds
 Search Breed Demo App
->>>>>>> d72d398405467e8a43957ddc438467244a1c7bd6
+
